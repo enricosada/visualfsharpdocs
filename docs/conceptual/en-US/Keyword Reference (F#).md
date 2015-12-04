@@ -96,7 +96,7 @@ The following tokens are reserved as keywords for future expansion of the F# lan
 |**atomic**|**break**|**checked**|**component**|**const**|**constraint**|**constructor**|
 |**continue**|**eager**|**event**|**external**|**fixed**|**functor**|**include**|
 |**method**|**mixin**|**object**|**parallel**|**process**|**protected**|**pure**|
-|**sealed**|**tailcall**|**trait**|**virtual**|**volatile**|||
+|**sealed**|**tailcall**|**trait**|**virtual**|**volatile**|**fori**|**measure**|**measure**|**params**|**recursive**|||
 
 ## See Also
 [F&#35; Language Reference](F%23+Language+Reference.md)
